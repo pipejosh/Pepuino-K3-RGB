@@ -17,7 +17,6 @@ I made this project because I felt like it was time to jump from keyboard to thi
 ![shcmeatic diagram pcb](IMG/pcb_schematic.png) 
 
 
-### BOM
+<!-- ### BOM -->
 
-![components](IMG/price_components.png) 
-![pcb price](IMG/price_pcb.png) 
+<!--![pcb price](IMG/price_pcb.png) -->
