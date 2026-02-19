@@ -18,7 +18,7 @@ In this current set up I have 2 layers, the Osu mode (ESC, z , x) and the Geomet
 ![shcematic](IMG/schematic.png) 
 
 ### PCB 
-![pcb](IMG/pcb.png) 
+![pcb](IMG/pcbImage.png) 
 
 ### CASE RENDER
 ![caseRender1](IMG/case1.png) 
