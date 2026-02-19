@@ -1,0 +1,23 @@
+KIT Items,Description,Quantity,Unit Price ,Total Price ,URL
+xiao rp2040,,1,"4,54","4,54",https://www.aliexpress.com/item/1005006987582110.html?spm=a2g0o.productlist.main.17.392c6940IU9PFX&algo_pvid=1e49d41d-ed72-42a4-b7a7-62b36fba62d5&pdp_ext_f=%7B%22order%22%3A%22179%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005006987582110%7C_p_origin_prod%3A
+blank keycaps,white,20,"0,19","3,77",https://www.aliexpress.com/item/1005006116865547.html?spm=a2g0o.detail.0.0.5325TAR5TAR5dv&mp=1
+switches,mechanical switches,10,"0,39","3,9",https://www.aliexpress.com/item/1005006425450443.html?spm=a2g0o.productlist.main.3.55d1527a9h770Q&algo_pvid=fa96d2ec-3bdf-4256-aa50-fbe46fc52a9e&pdp_ext_f=%7B%22order%22%3A%222668%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005006425450443%7C_p_origin_prod%3A
+rotary encoder,,1,"1,85","1,85",https://www.aliexpress.com/item/1005007644083514.html?spm=a2g0o.productlist.main.1.3a074548UtWT0Y&algo_pvid=59085491-8119-49e0-9ec0-84ce47b2d836&pdp_ext_f=%7B%22order%22%3A%222082%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005007644083514%7C_p_origin_prod%3A
+M2 standoff,M2 standoff 5mm,50,"0,05","2,47",https://www.aliexpress.com/item/1005008504707668.html?spm=a2g0o.detail.0.0.5fe4VqYfVqYfAJ&mp=1
+M2 screw,5mm screw,50,"0,03","1,65",https://www.aliexpress.com/item/1005005070119421.html?spm=a2g0o.productlist.main.6.5ae95acdXyxAzO&algo_pvid=7b80bd85-60b3-451d-ab83-8cb025dd266f&pdp_ext_f=%7B%22order%22%3A%228711%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005005070119421%7C_p_origin_prod%3A
+,,,,,
+,,,,,
+taxes,aliexpress tax,,,"4,28",
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,Components,"22,46",
+,,,,,
+,,,,,
+CASE Items,Description,,,,
+,,,,,
+JLCPCB,Pepuino Pad PCB,1,,,
+JLCPCB Shipping,Shipping for PCB + taxes,3,,,
+,,,,,
+TOTAL,"26,46",,,,
