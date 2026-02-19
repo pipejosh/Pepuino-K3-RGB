@@ -15,13 +15,13 @@ In this current set up I have 2 layers, the Osu mode (ESC, z , x) and the Geomet
 # Technical stuff
 
 ### SCHEMATIC DIAGRAM
-![shcmeatic diagram pcb](IMG/shcmeatic.png) 
+![shcematic](IMG/schematic.png) 
 
 ### PCB 
-![Pbc image](IMG/pcb.png) 
+![pcb](IMG/pcb.png) 
 
 ### CASE RENDER
-![case 3d model](IMG/case1.png) 
-![case 3d model](IMG/case2.png) 
+![caseRender1](IMG/case1.png) 
+![caseRender2](IMG/case2.png) 
 
 
