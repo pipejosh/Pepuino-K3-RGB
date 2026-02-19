@@ -1,22 +1,27 @@
-**Osu / Geometry dash pad**
+# Pepuino K3 RGB 
+
+Introducing the Pepuino K3 RGB, this is a custom macro pad made from scratch, currently designed to fit any rythm game like osu or geometry dash. The Pepuino K3 has 3 programable switches per light RGB lightning and a rotary encoder.
+
+I made this project because I felt like it was time to jump from keyboard to a more small macro pad. I was orignally gonna buy one, but what a better opportunity to learn how to make one myself.
+
+## Mode
+
+In this current set up I have 2 layers, the Osu mode (ESC, z , x) and the Geometry Dash mode (Space , z , x) you can difference them by the led profile, the purple for Osu and the rainbow for Geometry Dash 
+
+![geometryDashMode](IMG/irl1.png) 
+![osuMode](IMG/irl2.png) 
 
 
-This project is a little  pad for geomeotry dash or osu (or any other rithm game that includes tappin a mouse or keyboard), this little pad has 3 keys, that can be programmed to be anything, in this case they are programmed to be Z, X, and W, it also has a oled screen, that has stadistic, like the current hour
+# Technical stuff
 
-I made this project because I felt like it was time to jump from keyboard to this little pad, I was orignally gonna buy one, but what a better opportunity to learn how to make one myself.
+### SCHEMATIC DIAGRAM
+![shcmeatic diagram pcb](IMG/shcmeatic.png) 
 
-### Pcb Image
+### PCB 
 ![Pbc image](IMG/pcb.png) 
 
-
-### Case 3d model
-![case 3d model](IMG/caseModel.png) 
-
-
-### Schematic pcb
-![shcmeatic diagram pcb](IMG/pcb_schematic.png) 
+### CASE RENDER
+![case 3d model](IMG/case1.png) 
+![case 3d model](IMG/case2.png) 
 
 
-<!-- ### BOM -->
-
-<!--![pcb price](IMG/price_pcb.png) -->
